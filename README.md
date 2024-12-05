@@ -1,6 +1,4 @@
-# Project: I Am Learning Python
-
-### The Love Calculator
+# The Love Calculator
 
 - The Love Calculator is a fun program that evaluates the "love score" between two people based on the number of occurrences of specific letters in their names. The program combines the names, counts the letters in the words "TRUE" and "LOVE," and then calculates a score, offering a playful interpretation of the result.
 
